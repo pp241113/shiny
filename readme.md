@@ -1,6 +1,6 @@
 --
 title: "Developing Data Products - Week 3 Assignment"
-author: "Anish Singhal"
+author: "Pranav Pradeep"
 output: html_document
 ---
 
